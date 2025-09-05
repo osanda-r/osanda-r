@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osanda Rashmitha</h1>
-<h3 align="center">A Passionate Software Engineer from SriLankan</h3>
+<h3 align="center">A Passionate Software Engineer from SriLanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
