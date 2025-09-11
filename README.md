@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osanda Rashmitha</h1>
-<h3 align="center">A Passionate Software Engineer from SriLanka</h3>
+<h3 align="center">Software Engineering undergraduate passionate about building scalable software solutions. Skilled in web, mobile, database design, and IoT systems, with a solid foundation in data science and quality assurance. Quick learner, team player, and always improving."</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
