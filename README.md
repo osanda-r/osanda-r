@@ -18,6 +18,13 @@
 - Internet of Things (IoT)
 - Advanced UI/UX Design
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center">
+  “Building the future with code, driven by intelligence, designed for impact.”
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -105,13 +112,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
 
-<p align="center">
-  “Building the future with code, driven by intelligence, designed for impact.”
-</p>
 
 
 
